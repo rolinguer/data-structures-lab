@@ -12,5 +12,5 @@ Implementación de algunas estructuras de datos comunes y sus algorítmos más u
 * Priority queue
 
 ## Autores:
-Yliana Otero
-Ricardo Rolín
+* Yliana Otero
+* Ricardo Rolín
